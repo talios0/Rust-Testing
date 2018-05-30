@@ -1,5 +1,5 @@
 [package]
-name = "atom_test"
+name = "strings_test"
 version = "0.1.0"
 authors = ["charles <charlesreverand.01@gmail.com>"]
 
