@@ -1,0 +1,6 @@
+[package]
+name = "userinput_test"
+version = "0.1.0"
+authors = ["charles <charlesreverand.01@gmail.com>"]
+
+[dependencies]
